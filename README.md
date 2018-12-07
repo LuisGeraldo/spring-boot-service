@@ -100,11 +100,10 @@ Url: http://labwebservice.azurewebsites.net/api/hogar/mostrar/todos
 <h3 style="display: inline; font-family: Arial">Actualizando hogar</h3>
 <br/>
 <img style="display: block; margin: 0 auto;" src="screen/img_07.png" alt="Screenshot aplication"/>
-<br/>
 
-
-<h3 style="display: inline; font-family: Arial">Actualizando hogar</h3>
 <br/>
+<h3 style="display: inline; font-family: Arial">Hogar actualizado</h3>
+
 <img style="display: block; margin: 0 auto;" src="screen/img_08.png" alt="Screenshot aplication"/>
 <br/>
 
